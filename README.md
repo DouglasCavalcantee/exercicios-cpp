@@ -1,8 +1,22 @@
 # 💻 Exercícios em C++
 
-Repositório com exercícios de lógica de programação desenvolvidos em **C++** durante meus estudos.
+![Status](https://img.shields.io/badge/status-em%20evolução-blue)
+![Linguagem](https://img.shields.io/badge/C++-programação-blue)
+![Foco](https://img.shields.io/badge/foco-lógica%20de%20programação-green)
 
-O objetivo deste repositório é praticar conceitos fundamentais da programação, como entrada de dados, cálculos, estruturas condicionais, estruturas de repetição e organização de código.
+---
+
+## 📌 Sobre o projeto
+
+Este repositório contém exercícios de lógica de programação desenvolvidos em **C++**, com foco no fortalecimento da base em desenvolvimento.
+
+Aqui você encontrará práticas envolvendo:
+
+- Entrada e saída de dados  
+- Estruturas condicionais  
+- Estruturas de repetição  
+- Operadores matemáticos  
+- Organização de código  
 
 ---
 
@@ -28,24 +42,26 @@ exercicios-cpp/
     ├── tabua-c.jfif
     ├── pares-c.jfif
     └── soma-c.jfif
-```text
+```
 
-## 🖼️ Exemplos dos exercícios
+---
 
-### 📌 Exercício 01 — Média
+## 🖼️ Demonstração dos exercícios
+
+### 📊 Cálculo de média
 ![Média](imagens/media-c.jfif)
 
 ---
 
-### 📌 Exercício 02 — Tabuada
+### 🔢 Tabuada
 ![Tabuada](imagens/tabua-c.jfif)
 
 ---
 
-### 📌 Exercício 03 — Números pares
+### ⚖️ Números pares
 ![Pares](imagens/pares-c.jfif)
 
 ---
 
-### 📌 Exercício 04 — Soma
+### ➕ Soma de valores
 ![Soma](imagens/soma-c.jfif)
