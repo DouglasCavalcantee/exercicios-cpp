@@ -28,6 +28,7 @@ exercicios-cpp/
     ├── tabua-c.jfif
     ├── pares-c.jfif
     └── soma-c.jfif
+```text
 
 ## 🖼️ Exemplos dos exercícios
 
